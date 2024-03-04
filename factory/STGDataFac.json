@@ -1,0 +1,9 @@
+{
+	"name": "STGDataFac",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "25fca1b5-a5bb-49bc-8c7c-f067a0d0544e",
+		"tenantId": "f3329b99-6c25-490b-a9ca-e087b4d5fa56"
+	}
+}
