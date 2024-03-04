@@ -167,7 +167,7 @@
 														"type": "Expression"
 													},
 													"file": {
-														"value": "@item().tablename",
+														"value": "concat(@item().tablename,'.csv')",
 														"type": "Expression"
 													}
 												}
